@@ -1,6 +1,6 @@
 # win-kbd-fi-no-dead-keys
 
-A Finnish keyboard layout without dead keys for Windows.
+A Finnish keyboard layout without dead keys (i.e. <kbd>^</kbd>, <kbd>~</kbd>, <kbd>`</kbd>, etc. as normal keys) for Windows.
 
 ## Installation
 
